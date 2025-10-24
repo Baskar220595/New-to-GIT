@@ -4,10 +4,10 @@ let obj= {
 }
 let details= [
     {  
-        id: "01",
+        id: 01,
         role: "Software"},
     {
-        id: "02",
+        id: 2,
         role: "Test"},
     {
         id: "03",
