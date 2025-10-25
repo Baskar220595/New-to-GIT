@@ -8,3 +8,8 @@ for(let i=0; i < a.length; i++){
     else{ b+= a[i]}
 }
 console.log(b)
+
+
+// let str = "banana";
+// let newStr = str.replace(/a/g, 'x');
+// console.log(newStr);
