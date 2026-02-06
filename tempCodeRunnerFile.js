@@ -1,7 +1,7 @@
 function fun (){
     
 var a = 10;
-var a = 20;
+a = 20;
 console.log(a);
 
 let b = 10;
